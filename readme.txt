@@ -1,5 +1,5 @@
-# SecureSense – Laptop Security System
-
+SecureSense (Laptop Security System)
+------------------------------------------
 
 SecureSense is a computer vision–based laptop security system designed to monitor the user’s environment, authenticate the person in front of the device, and detect unauthorized access in real time.  
 
