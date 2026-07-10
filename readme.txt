@@ -7,19 +7,19 @@ The system integrates facial authentication, motion detection, automated alerts,
 
 ---
 
-## 🚀 Core Features
-- 👤 Face-based user authentication  
-- 🎥 Continuous real-time webcam monitoring  
-- 🔎 Motion and face detection  
-- 🚨 Alarm trigger for unauthorized access  
-- 📸 Intruder snapshot capture with timestamp  
-- 🔒 Automatic workstation lock  
-- 🌐 Web interface for registration and breach management  
-- ⚡ Background monitoring module  
+## Core Features
+-  Face-based user authentication  
+-  Continuous real-time webcam monitoring  
+-  Motion and face detection  
+-  Alarm trigger for unauthorized access  
+-  Intruder snapshot capture with timestamp  
+-  Automatic workstation lock  
+-  Web interface for registration and breach management  
+-  Background monitoring module  
 
 ---
 
-## 🧠 System Workflow
+##  System Workflow
 
 ### 1️⃣ User Registration
 - The authorized user registers via a web interface.
@@ -50,7 +50,7 @@ When unauthorized access is detected:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python  
 - OpenCV  
 - Face Recognition (Facial Encoding & Matching)  
@@ -60,4 +60,3 @@ When unauthorized access is detected:
 
 ---
 
-## 📂 Project Structure
